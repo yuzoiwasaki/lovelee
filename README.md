@@ -27,8 +27,8 @@ user = Lovelee.new("foo")
 lovers = user.loves # => get foo's following list
 lovers = user.loved_by # => get foo's followers list
 lovers.each do |lover|
-  puts lover.name # => name
-  puts lover.image # => image_url
+  puts lover[:name] # => name
+  puts lover[:image] # => image_url
 end  
 ````
 
