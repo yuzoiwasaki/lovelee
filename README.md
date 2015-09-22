@@ -1,5 +1,7 @@
 # Lovelee
 
+[![Build Status](https://travis-ci.org/yuzoiwasaki/lovelee.svg)](https://travis-ci.org/yuzoiwasaki/lovelee)
+
 Lovelee is a quick GitHub follow/followed relation list getter. Love means *follow* in this case :)
 
 ## Installation
